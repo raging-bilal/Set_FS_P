@@ -1,7 +1,5 @@
 # 10. Write a program to read the values of two points on x-y plane and find out the distance between two points. Use math functions (sqrt, pow).
 
-
-
 import math
 
 x1=int(input("Enter the value of x1: "))
